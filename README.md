@@ -1,5 +1,5 @@
 - Assignment 1 (Format: Poster)
-  ![Alt text](Industrial talk PETRONAS Digital YGP.jpg)
+  ![](images/Industrial%20talk%20PETRONAS%20Digital%20YGP.jpg)
 - Assignment 2 (Format: Video) 
 - Assignment 3 (Format: Report) 
 - Assignment 4 (Format: Newsletter)
