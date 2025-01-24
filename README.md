@@ -23,3 +23,6 @@ https://www.github.com/LauZhiYing
 
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking%20(1).png)
 
+# Reflection
+I have gained a lot of knowledge regarding technology and information.     This enables me to understand more in this field and will be helpful for me in the future. Besides, I also learned design thinking through the project in this course. 
+In my opinion, I hope that we could have more practical activities for easier understanding.
