@@ -18,6 +18,8 @@ https://drive.google.com/file/d/1LCn-C_3gO-fnuMbzaIPKmtI8errKo4Ic/view?usp=shari
 https://www.github.com/LauZhiYing
 
 # PC Assemble (Quiz)
+https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/PC%20Assemble.jpeg
+
 # Design Thinking (Low Fidelity Prototype)
 ## Report:
 https://liveutm-my.sharepoint.com/:w:/g/personal/eiizhihui_live_utm_my/EX_EszY0cI9CmC8lHOdCvJ8BGV2ZlnAw94dwIBrJgsYpgQ?rtime=zw0i75w83Ug
