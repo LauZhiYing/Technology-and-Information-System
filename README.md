@@ -13,6 +13,9 @@
 
 # Assignment 4 (Format: Newsletter)
 # E-portfolio (Github)
+
+https://www.github.com/LauZhiYing
+
 # PC Assemble (Quiz)
 # Design Thinking (Low Fidelity Prototype)
 
