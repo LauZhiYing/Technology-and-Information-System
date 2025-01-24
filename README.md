@@ -1,20 +1,19 @@
 # 📚Assignment 1 (Format: Poster)
 
-We listened to an Industrial Talk from Petronas and make a poster regarding the talk.
-
+We listened to an Industrial Talk from Petronas and make a poster regarding the talk. Through this talk, I knew more about Petronas Digital Young Graduate Programme. It is very helpful for us as they also talked about the roles of Software Engineer, Data Engineer and Data Scientist. 
 
   ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Industrial%20talk%20PETRONAS%20Digital%20YGP.jpg)
 
 # 🎞️Assignment 2 (Format: Video) 
 
-We had a visit to UTMDigital and we listened to the talk introducing UTMDigital.
-We also got the opportunity to interview few staffs over there.
+We had a visit to UTMDigital and we listened to the talk introducing UTMDigital. I got to know many knowledge about UTMDigital including the background, the structure, the services they provided and many more. Besides, we visited Digital Care and Multipurpose Area ,and Open Office in UTMDigital. I got to try on the interactive smartboard. I also got the opportunity to interview few staffs over there to know more about their roles and challenges they usually faced.
 
 https://drive.google.com/file/d/1LCn-C_3gO-fnuMbzaIPKmtI8errKo4Ic/view?usp=sharing
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202.png)
 
 # 📑Assignment 3 (Format: Report) 
 
+I listened to an industrial talk that presented the skills required in University and industry and wrote a report about the talk. The talk is very knowledgable as the speakers also shared some of their experiences in the industry. I also got to know the important skills that a person should have to be successful in university and industry. In addition, the speakers also taught us how to increase our employability. 
 
 [Assignment 3.pdf](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%203.pdf)
 
@@ -24,12 +23,16 @@ https://drive.google.com/file/d/1LCn-C_3gO-fnuMbzaIPKmtI8errKo4Ic/view?usp=shari
 https://www.github.com/LauZhiYing
 
 # 🖥️PC Assemble (Quiz)
+
+I personally enjoyed the process as I think it was fun to experience PC assemble with hands-on. It enables me to understand and remember faster than just studying the theory. It is really statisfying when seeing the PC that we assembled is able to work. 
+
 https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/PC%20Assemble.jpeg
 
 # 💡Design Thinking (Low Fidelity Prototype)
-## Report:
-We wrote a report of an industrial talk that presented the skills required in University and industry.
 
+I think I have gained a lot through this project. Obviously, I learned what design thinking is. This will be really helpful for me in the future whenever I want to design or develop a product. Besides, I also learned to cooperate with others. My leadership and teamwork have improved a lot throughout this project. I am grateful to have such amazing team members that we could improve together. Lastly, I learned more about the theme of this project which is Big Data and Artificial Intelligence.
+
+## Report:
 https://liveutm-my.sharepoint.com/:w:/g/personal/eiizhihui_live_utm_my/EX_EszY0cI9CmC8lHOdCvJ8BGV2ZlnAw94dwIBrJgsYpgQ?rtime=zw0i75w83Ug
 ## Presentation Slide:
 https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Project%20.pdf
