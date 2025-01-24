@@ -1,26 +1,26 @@
-# Assignment 1 (Format: Poster)
+# 📚Assignment 1 (Format: Poster)
 
   ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Industrial%20talk%20PETRONAS%20Digital%20YGP.jpg)
 
-# Assignment 2 (Format: Video) 
+# 🎞️Assignment 2 (Format: Video) 
 
 https://drive.google.com/file/d/1LCn-C_3gO-fnuMbzaIPKmtI8errKo4Ic/view?usp=sharing
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202.png)
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202(1).png)
 
-# Assignment 3 (Format: Report) 
+# 📑Assignment 3 (Format: Report) 
 
 [Assignment 3.pdf](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%203.pdf)
 
-# Assignment 4 (Format: Newsletter)
+# 📰Assignment 4 (Format: Newsletter)
 # E-portfolio (Github)
 
 https://www.github.com/LauZhiYing
 
-# PC Assemble (Quiz)
+# 🖥️PC Assemble (Quiz)
 https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/PC%20Assemble.jpeg
 
-# Design Thinking (Low Fidelity Prototype)
+# 💡Design Thinking (Low Fidelity Prototype)
 ## Report:
 https://liveutm-my.sharepoint.com/:w:/g/personal/eiizhihui_live_utm_my/EX_EszY0cI9CmC8lHOdCvJ8BGV2ZlnAw94dwIBrJgsYpgQ?rtime=zw0i75w83Ug
 ## Presentation Slide:
