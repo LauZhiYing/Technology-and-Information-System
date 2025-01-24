@@ -26,4 +26,4 @@ https://www.github.com/LauZhiYing
 # Reflection
 I have gained a lot of knowledge regarding technology and information.This enables me to understand more in this field and will be helpful for me in the future. Besides, I also learned design thinking through the project in this course which will definitely helped a lot when developing or designing product.
 
-In my opinion, I hope that we could have more practical activities for easier understanding. 
+In my opinion, I hope that we could have more practical activities for easier understanding. I quite enjoy the PC assemble activity, even it is a quiz but it is fun and could let us have a clearer insight.
