@@ -14,3 +14,8 @@
 # E-portfolio (Github)
 # PC Assemble (Quiz)
 # Design Thinking (Low Fidelity Prototype)
+
+![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking.png)
+
+![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking%20(1).png))
+
