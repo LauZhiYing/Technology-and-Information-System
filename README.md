@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1LCn-C_3gO-fnuMbzaIPKmtI8errKo4Ic/view?usp=shari
 [Assignment 3.pdf](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%203.pdf)
 
 # 📰Assignment 4 (Format: Newsletter)
-# E-portfolio (Github)
+# 🪪E-portfolio (Github)
 
 https://www.github.com/LauZhiYing
 
