@@ -1,14 +1,20 @@
 # 📚Assignment 1 (Format: Poster)
 
+We listened to an Industrial Talk from Petronas and make a poster regarding the talk.
+
+
   ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Industrial%20talk%20PETRONAS%20Digital%20YGP.jpg)
 
 # 🎞️Assignment 2 (Format: Video) 
 
+We had a visit to UTMDigital and we listened to the talk introducing UTMDigital.
+We also got the opportunity to interview few staffs over there.
+
 https://drive.google.com/file/d/1LCn-C_3gO-fnuMbzaIPKmtI8errKo4Ic/view?usp=sharing
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202.png)
-![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202(1).png)
 
 # 📑Assignment 3 (Format: Report) 
+
 
 [Assignment 3.pdf](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%203.pdf)
 
@@ -22,6 +28,8 @@ https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/PC%20A
 
 # 💡Design Thinking (Low Fidelity Prototype)
 ## Report:
+We wrote a report of an industrial talk that presented the skills required in University and industry.
+
 https://liveutm-my.sharepoint.com/:w:/g/personal/eiizhihui_live_utm_my/EX_EszY0cI9CmC8lHOdCvJ8BGV2ZlnAw94dwIBrJgsYpgQ?rtime=zw0i75w83Ug
 ## Presentation Slide:
 https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Project%20.pdf
@@ -34,6 +42,8 @@ https://drive.google.com/file/d/1oJG1W_jA-HLVyk46gvzkXRm5LmXIh965/view?usp=drive
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking.png)
 
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking%20(1).png)
+![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202(1).png)
+
 
 # Reflection
 I have gained a lot of knowledge regarding technology and information.This enables me to understand more in this field and will be helpful for me in the future. Besides, I also learned design thinking through the project in this course which will definitely helped a lot when developing or designing product.
