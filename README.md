@@ -4,7 +4,8 @@
 
 # Assignment 2 (Format: Video) 
 
-
+![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202.png)
+![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202(1).png)
 
 # Assignment 3 (Format: Report) 
 
@@ -17,5 +18,5 @@
 
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking.png)
 
-![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking%20(1).png))
+![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking%20(1).png)
 
