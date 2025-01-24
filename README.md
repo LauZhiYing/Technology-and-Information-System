@@ -4,6 +4,7 @@
 
 # Assignment 2 (Format: Video) 
 
+https://drive.google.com/file/d/1LCn-C_3gO-fnuMbzaIPKmtI8errKo4Ic/view?usp=sharing
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202.png)
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%202(1).png)
 
@@ -18,6 +19,7 @@ https://www.github.com/LauZhiYing
 
 # PC Assemble (Quiz)
 # Design Thinking (Low Fidelity Prototype)
+https://drive.google.com/file/d/1oJG1W_jA-HLVyk46gvzkXRm5LmXIh965/view?usp=drive_link
 
 ![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Design%20Thinking.png)
 
