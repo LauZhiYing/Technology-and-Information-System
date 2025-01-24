@@ -4,7 +4,12 @@
 
 # Assignment 2 (Format: Video) 
 
+
+
 # Assignment 3 (Format: Report) 
+
+[Assignment 3.pdf](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%203.pdf)
+
 # Assignment 4 (Format: Newsletter)
 # E-portfolio (Github)
 # PC Assemble (Quiz)
