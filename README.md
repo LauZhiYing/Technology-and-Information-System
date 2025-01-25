@@ -26,7 +26,7 @@ https://www.github.com/LauZhiYing
 
 I personally enjoyed the process as I think it was fun to experience PC assemble with hands-on. It enables me to understand and remember faster than just studying the theory. It is really statisfying when seeing the PC that we assembled is able to work. 
 
-https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/PC%20Assemble.jpeg
+![](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/PC%20Assemble.jpeg)
 
 # 💡Design Thinking (Low Fidelity Prototype)
 
