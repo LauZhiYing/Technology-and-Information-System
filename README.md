@@ -18,6 +18,8 @@ I listened to an industrial talk that presented the skills required in Universit
 [Assignment 3.pdf](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%203.pdf)
 
 # 📰Assignment 4 (Format: Newsletter)
+
+[Assignment 4](https://github.com/LauZhiYing/Technology-and-Information-System/blob/main/Assignment%204%20Newsletter%20(1).pdf)
 # 🪪E-portfolio (Github)
 
 https://www.github.com/LauZhiYing
